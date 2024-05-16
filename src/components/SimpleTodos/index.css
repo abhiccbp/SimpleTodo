@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container1 {
+  background-color: #f8d6c3;
+  font-family: roboto;
+  padding: 20px;
+  height: 100vh;
+}
+.container2 {
+  background-color: white;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 20px;
+}
+.head {
+  text-align: center;
+  color: #ff8542;
+}

@@ -1,0 +1,12 @@
+.cont3 {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px;
+  border-width: 1px;
+}
